@@ -34,3 +34,10 @@ Below table shows the list of food items to be tried in the city of maryville(MO
 | French Fries          |    KFC        |  $12   |
 | Strawberry Slushie    | Mcdonalds     |  $10   |
 | Cheese Pizza          | Pizzahut      |  $10   |
+
+***
+# Pithy Quotes
+
+> Tell me and I forget. Teach me and I remember. Involve me and I learn. *-Benjamin Franklin*
+
+>Don't judge each day by the harvest you reap but by the seeds that you plant. *-Robert Louis Stevenson*
