@@ -23,3 +23,14 @@
 * Group Camp 
 * Hunting 
 * Golf 
+
+***
+###### Tables reagrding the Food Items
+Below table shows the list of food items to be tried in the city of maryville(MO).
+
+| Food/drink            |    Location   | Price  |
+|-----------------------|:-------------:|:------:|
+| Crispy Chicken Burgers|  Mcdonalds    | $1.59  |
+| French Fries          |    KFC        |  $12   |
+| Strawberry Slushie    | Mcdonalds     |  $10   |
+| Cheese Pizza          | Pizzahut      |  $10   |
