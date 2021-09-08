@@ -25,6 +25,11 @@
 * Golf 
 
 ***
+###### Link presenting about Aboutme.
+[AboutMe](https://github.com/Hkdp-Omtri/assignment2-OMTRI/blob/61ab65c42bc3ca05652fb5014d1378314ea6b4df/AboutMe.md)
+
+
+***
 ###### Tables reagrding the Food Items
 Below table shows the list of food items to be tried in the city of maryville(MO).
 
